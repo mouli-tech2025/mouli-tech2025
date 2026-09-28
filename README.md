@@ -1,8 +1,14 @@
 <div align="center">
 
-# Hi 👋, I'm Mouli Biswas
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Hi%20👋%20I'm%20Mouli&fontSize=50&fontAlignY=38&desc=💻%20Aspiring%20SDE%20%7C%20🌐%20Web%20Developer%20%7C%20🤖%20AI%2FML%20Enthusiast&descAlignY=51&descAlign=62)
 
-### 3rd Year B.Tech IT Student | Web Developer | AI/ML Enthusiast
+</div>
+
+---
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=🚀+Aspiring+Software+Development+Engineer;🌐+Building+Web+Applications;🤖+AI+%26+ML+Enthusiast;📚+Learning+DSA+%26+RAG;🔨+Building+Projects+%26+Exploring+New+Technologies)](https://git.io/typing-svg)
 
 </div>
 
