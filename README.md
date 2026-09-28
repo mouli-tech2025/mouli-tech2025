@@ -12,14 +12,17 @@
 
 </div>
 
-## 👩🏻‍💻 About Me
+## 🎀 About Me
 
-- 🎓 3rd Year B.Tech Information Technology Student
-- 💻 Interested in Web Development
-- 🤖 AI/ML Enthusiast
-- 🧠 Exploring RAG
-- 📚 Practicing DSA
-- 📱 Interested in Android Development
+Hi! I'm **Mouli Biswas** 👩🏻‍💻
+
+🎓 3rd Year B.Tech Information Technology Student  
+💻 Aspiring Software Development Engineer  
+🌐 Interested in Web Development  
+🤖 AI/ML Enthusiast  
+🧠 Exploring RAG & Generative AI  
+📱 Interested in Android Development  
+🌱 Always learning, building and experimenting
 
 ---
 
