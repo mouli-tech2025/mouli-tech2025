@@ -74,13 +74,15 @@ and intelligent question answering.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
+
+
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mouli-tech2025&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouli-tech2025&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mouli-tech2025&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouli-tech2025&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -88,52 +90,16 @@ and intelligent question answering.
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mouli-tech2025&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mouli-tech2025&theme=tokyonight" />
 </p>
 
 ---
 
+## 📈 Contribution Overview
 
-## Developer Overview:
-
-[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mouli-tech2025&theme=dracula&v=2)](https://github.com/mouli-tech2025)
-
-### 🚀 GitHub Stats:
-
-<table>
-<tr>
-<td align="center">
-
-<a href="https://github.com/mouli-tech2025">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mouli-tech2025&theme=github-dark&hide_border=true"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-
-
-
-
-
-| Languages by Repo | Languages by Commit |
-|-------------------|----------------------|
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mouli-tech2025&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mouli-tech2025&theme=radical&v=3) |
-
-
-
-### Community Metrics:
-![Profile Views](https://komarev.com/ghpvc/?username=mouli-tech2025&color=00bfff&style=for-the-badge&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/mouli-tech2025?color=ff69b4&style=for-the-badge&label=Followers)
-![Stars](https://img.shields.io/github/stars/mouli-tech2025?color=facc15&style=for-the-badge&label=Stars)
-
-
-
-  
-</a>
-</div>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mouli-tech2025&theme=tokyonight" />
+</p>
 
 
 </details>
