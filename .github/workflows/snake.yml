@@ -24,6 +24,29 @@ jobs:
             output/snake.svg?color_snake=%23FF69B4&color_empty=%23D1D5DB&color_dots=%23FFB6C1
             output/snake-dark.svg?palette=github-dark&color_snake=%23FF69B4&color_empty=%23D1D5DB&color_dots=%23FFB6C1
 
+      - name: Change contribution colors
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+
+          colors = {
+              "#ebedf0": "#D1D5DB",
+              "#9be9a8": "#FFB6C1",
+              "#40c463": "#FF69B4",
+              "#30a14e": "#EC4899",
+              "#216e39": "#BE185D",
+          }
+
+          for file in Path("output").glob("snake*.svg"):
+              text = file.read_text()
+
+              for old, new in colors.items():
+                  text = text.replace(old, new)
+                  text = text.replace(old.upper(), new)
+
+              file.write_text(text)
+          PY
+
       - name: Slow down snake animation
         run: |
           python3 - <<'PY'
@@ -33,7 +56,6 @@ jobs:
           for file in Path("output").glob("snake*.svg"):
               text = file.read_text()
 
-              # Make animation durations longer
               text = re.sub(
                   r'dur="([0-9.]+)s"',
                   lambda m: f'dur="{float(m.group(1)) * 2.5:.2f}s"',
