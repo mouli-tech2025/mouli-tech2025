@@ -86,13 +86,9 @@ Hi! I'm **Mouli Biswas** 👩🏻‍💻
 
 ---
 
-### 👩🏻‍💻 Developer Overview:
+## 👩🏻‍💻 Developer Overview
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mouli-tech2025&show_icons=true&theme=dracula&hide_border=true)
-
-</div>
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mouli-tech2025&theme=dracula&v=2)](https://github.com/mouli-tech2025)
 
 ### 📊 GitHub Stats:
 
