@@ -105,4 +105,21 @@ Hi! I'm **Mouli Biswas** 👩🏻‍💻
 </td>
 </tr>
 </table>
+## ✨ GitHub Highlights
+
+<p align="center">
+
+<a href="https://github.com/mouli-tech2025">
+  <img src="https://komarev.com/ghpvc/?username=mouli-tech2025&color=FF69B4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+</a>
+
+<a href="https://github.com/mouli-tech2025?tab=followers">
+  <img src="https://img.shields.io/github/followers/mouli-tech2025?color=E75480&style=for-the-badge&label=FOLLOWERS" alt="Followers"/>
+</a>
+
+<a href="https://github.com/mouli-tech2025?tab=repositories">
+  <img src="https://img.shields.io/github/stars/mouli-tech2025?color=FFB6C1&style=for-the-badge&label=STARS" alt="Stars"/>
+</a>
+
+</p>
 
