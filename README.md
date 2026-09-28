@@ -28,57 +28,28 @@ Hi! I'm **Mouli Biswas** 👩🏻‍💻
 
 ## 🛠️ Languages & Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,python,java,js,ts" />
-</p>
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=c,python,java,js,ts,html,css,react,nextjs,vite,git,github,vscode" />
+
 <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="48" height="48"/>
 </a>
 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48"/>
 </a>
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite" />
-</p>
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-<img src="https://img.shields.io/badge/Antigravity-IDE-4285F4?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Antigravity-IDE-FF69B4?style=for-the-badge&logo=google&logoColor=white" height="48"/>
+
 </p>
 
-### AI / ML & Data
+### 🤖 AI / ML & Data
+
 **AI/ML • RAG • Embeddings • LLMs**
 
 
 ---
-
-## 🚀 Featured Projects
-
-### 🔐 DeepTrust
-
-AI-based research project focused on detecting and analyzing
-AI-generated images and deepfakes.
-
-🔗 [View DeepTrust Repository](https://github.com/mouli-tech2025/DeepTrust)
-
-### 📚 HexaRAG
-
-A Retrieval-Augmented Generation system for document processing
-and intelligent question answering.
-
-🔗 [View HexaRAG Repository](https://github.com/mouli-tech2025/Hexa_RAG)
-
----
-
-## 📚 Currently Learning
-
-- Data Structures & Algorithms
-- Artificial Intelligence & Machine Learning
-- Retrieval-Augmented Generation
-- Android Development
-
-  ---
-
 ## Connect With Me
 
 <p>
