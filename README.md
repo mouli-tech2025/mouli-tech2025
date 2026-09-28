@@ -63,18 +63,6 @@ and intelligent question answering.
 
   ---
 
-## 🚀GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mouli-tech2025&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mouli-tech2025&theme=tokyonight" />
-</p>
-
----
-
 ## Connect With Me
 
 <p>
