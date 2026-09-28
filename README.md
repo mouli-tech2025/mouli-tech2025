@@ -10,7 +10,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=🚀+Aspiring+Software+Development+Engineer;🌐+Building+Web+Applications;🤖+AI+%26+ML+Enthusiast;📚+Learning+DSA+%26+RAG;🎀+Always+Learning+%26+Building)](https://git.io/typing-svg)
 
-</div>
+<table>
+<tr>
+
+<td width="65%" valign="top">
 
 ## 🎀 About Me
 
@@ -22,7 +25,38 @@ Hi! I'm **Mouli Biswas** 👩🏻‍💻
 🤖 AI/ML Enthusiast  
 🧠 Exploring RAG & Generative AI  
 📱 Interested in Android Development  
-🌱 Always learning, building and experimenting
+🌱 Always learning, building and experimenting  
+
+</td>
+
+<td width="35%" valign="top">
+
+## 💌 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/mouli-tech2025">
+<img src="https://img.shields.io/badge/GitHub-E75480?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -43,20 +77,6 @@ Hi! I'm **Mouli Biswas** 👩🏻‍💻
 <img src="https://img.shields.io/badge/Antigravity-IDE-FF69B4?style=for-the-badge&logo=google&logoColor=white" height="48"/>
 
 </p>
-
----
-## Connect With Me
-
-<p>
-<a href="https://www.linkedin.com/in/mouli-biswas-2ba777390/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/mouli-tech2025">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
 
 ---
 
