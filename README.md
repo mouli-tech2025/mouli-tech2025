@@ -93,8 +93,54 @@ and intelligent question answering.
 
 ---
 
-## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mouli-tech2025&theme=tokyo-night&hide_border=true" />
-</p>
+## Developer Overview:
+
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mouli-tech2025&theme=dracula&v=2)](https://github.com/mouli-tech2025)
+
+### 🚀 GitHub Stats:
+
+<table>
+<tr>
+<td align="center">
+
+<a href="https://github.com/mouli-tech2025">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mouli-tech2025&theme=github-dark&hide_border=true"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+
+
+
+
+
+| Languages by Repo | Languages by Commit |
+|-------------------|----------------------|
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mouli-tech2025&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mouli-tech2025&theme=radical&v=3) |
+
+
+
+### Community Metrics:
+![Profile Views](https://komarev.com/ghpvc/?username=mouli-tech2025&color=00bfff&style=for-the-badge&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/mouli-tech2025?color=ff69b4&style=for-the-badge&label=Followers)
+![Stars](https://img.shields.io/github/stars/mouli-tech2025?color=facc15&style=for-the-badge&label=Stars)
+
+
+
+  
+</a>
+</div>
+
+
+
+</details>
+
+
+
+</a>
+</div>
+
+<img src="https://raw.githubusercontent.com/mouli-tech2025/mouli-tech2025/output/snake.svg" width = 1500 alt="Snake animation" />
