@@ -105,7 +105,7 @@ Hi! I'm **Mouli Biswas** 👩🏻‍💻
 </td>
 </tr>
 </table>
-## ✨ GitHub Highlights
+<h2>✨ GitHub Highlights</h2>
 
 <p align="center">
 
@@ -125,6 +125,6 @@ Hi! I'm **Mouli Biswas** 👩🏻‍💻
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mouli-tech2025/mouli-tech2025/output/snake.svg" width="100%" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/mouli-tech2025/mouli-tech2025/main/output/snake.svg" width="100%" alt="Snake animation"/>
 
 </div>
