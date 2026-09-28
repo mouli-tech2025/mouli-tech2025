@@ -34,12 +34,17 @@
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,antigravity" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://img.shields.io/badge/Antigravity-IDE-4285F4?style=for-the-badge" />
 </p>
 
-### AI / ML
+### AI / ML & Data
 
-**NumPy • AI/ML • RAG**
+<p>
+<img src="https://skillicons.dev/icons?i=numpy" />
+</p>
+
+**AI/ML • RAG • Embeddings • LLMs**
 
 
 ---
