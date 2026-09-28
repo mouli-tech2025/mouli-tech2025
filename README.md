@@ -6,14 +6,10 @@
 
 ---
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=🚀+Aspiring+Software+Development+Engineer;🌐+Building+Web+Applications;🤖+AI+%26+ML+Enthusiast;📚+Learning+DSA+%26+RAG;🎀+Always+Learning+%26+Building)](https://git.io/typing-svg)
-
-<table>
+<table width="100%">
 <tr>
 
-<td width="65%" valign="top">
+<td width="70%" valign="top">
 
 ## 🎀 About Me
 
@@ -21,43 +17,38 @@ Hi! I'm **Mouli Biswas** 👩🏻‍💻
 
 🎓 3rd Year B.Tech Information Technology Student  
 💻 Aspiring Software Development Engineer  
-🌐 Interested in Web Development  
+🌐 Web Development Enthusiast  
 🤖 AI/ML Enthusiast  
 🧠 Exploring RAG & Generative AI  
-📱 Interested in Android Development  
-🌱 Always learning, building and experimenting  
+📱 Exploring Android Development  
+🌱 Always learning, building and experimenting
 
 </td>
 
-<td width="35%" valign="top">
+<td width="30%" valign="middle" align="center">
 
-## 💌 Connect With Me
+## 💌 Let's Connect
 
-<p align="center">
+<a href="https://www.linkedin.com/in/mouli-biswas-2ba777390/">
+<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<br><br>
+
+<a href="mailto:biswasmouli16@gmail.com">
+<img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
 
 <a href="https://github.com/mouli-tech2025">
-<img src="https://img.shields.io/badge/GitHub-E75480?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-E75480?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<br><br>
-
-<a href="YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
 
 </td>
 
 </tr>
 </table>
-
 ---
 
 ## 🛠️ Languages & Tools
