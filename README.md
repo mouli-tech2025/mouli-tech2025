@@ -8,7 +8,7 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Hi%20👋%20I'm%20Mouli&fontSize=50&fontAlignY=38&desc=💻%20Aspiring%20SDE%20%7C%20🌐%20Web%20Developer%20%7C%20🤖%20AI%2FML%20Enthusiast&descAlignY=51&descAlign=62)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=🚀+Aspiring+Software+Development+Engineer;🌐+Building+Web+Applications;🤖+AI+%26+ML+Enthusiast;📚+Learning+DSA+%26+RAG;🎀+Always+Learning+%26+Building)](https://git.io/typing-svg)
 
 </div>
 
