@@ -9,13 +9,11 @@
 <table width="100%">
 <tr>
 
-<!-- LEFT SIDE -->
 <td width="75%" valign="top">
 
 <table width="100%">
 <tr>
 
-<!-- ABOUT ME -->
 <td width="70%" valign="top">
 
 ## 🎀 About Me
@@ -32,7 +30,6 @@ Hi! I'm **Mouli Biswas** 👩🏻‍💻
 
 </td>
 
-<!-- CONNECT -->
 <td width="30%" valign="top" align="center">
 
 ## 💌 Let's Connect
@@ -60,7 +57,6 @@ Hi! I'm **Mouli Biswas** 👩🏻‍💻
 
 </td>
 
-<!-- RIGHT SIDE GIF -->
 <td width="25%" valign="middle" align="center">
 
 <img src="./assets/coding.gif" width="100%">
