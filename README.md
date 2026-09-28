@@ -44,11 +44,6 @@ Hi! I'm **Mouli Biswas** 👩🏻‍💻
 
 </p>
 
-### 🤖 AI / ML & Data
-
-**AI/ML • RAG • Embeddings • LLMs**
-
-
 ---
 ## Connect With Me
 
