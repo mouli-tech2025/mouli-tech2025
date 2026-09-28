@@ -65,7 +65,6 @@ Hi! I'm **Mouli Biswas** 👩🏻‍💻
 
 </tr>
 </table>
----
 
 ## 🛠️ Languages & Tools
 
@@ -86,8 +85,6 @@ Hi! I'm **Mouli Biswas** 👩🏻‍💻
 </p>
 
 ---
-
-## 🚀 GitHub Insights:
 
 ### 👩🏻‍💻 Developer Overview:
 
