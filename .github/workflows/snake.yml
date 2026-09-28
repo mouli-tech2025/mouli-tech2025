@@ -8,12 +8,43 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
 
     steps:
-      - uses: Platane/snk@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate snake animation
+        uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: mouli-tech2025
           outputs: |
-            dist/github-snake.svg?color_snake=#ff4fa3&color_dots=#252525,#ffc2dc,#ff8fbd,#ff4fa3,#d81b75
+            output/snake.svg?color_snake=%23FF69B4&color_empty=%23F8F1F5&color_dots=%23FFB6C1
+            output/snake-dark.svg?palette=github-dark&color_snake=%23FF69B4
+
+      - name: Slow down snake animation
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+
+          for file in Path("output").glob("snake*.svg"):
+              text = file.read_text()
+
+              # Make animation durations longer
+              text = re.sub(
+                  r'dur="([0-9.]+)s"',
+                  lambda m: f'dur="{float(m.group(1)) * 2.5:.2f}s"',
+                  text
+              )
+
+              file.write_text(text)
+          PY
+
+      - name: Push snake animation
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Update snake animation"
+          add: "output/"
