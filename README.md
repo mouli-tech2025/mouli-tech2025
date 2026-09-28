@@ -123,3 +123,8 @@ Hi! I'm **Mouli Biswas** 👩🏻‍💻
 
 </p>
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mouli-tech2025/mouli-tech2025/output/snake.svg" width="100%" alt="Snake animation"/>
+
+</div>
