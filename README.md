@@ -39,11 +39,6 @@
 </p>
 
 ### AI / ML & Data
-
-<p>
-<img src="https://skillicons.dev/icons?i=numpy" />
-</p>
-
 **AI/ML • RAG • Embeddings • LLMs**
 
 
@@ -53,13 +48,19 @@
 
 ### 🔐 DeepTrust
 
-AI-based research project focused on AI-generated image and deepfake detection.
+AI-based research project focused on detecting and analyzing
+AI-generated images and deepfakes.
+
+🔗 [View DeepTrust Repository](https://github.com/mouli-tech2025/DeepTrust)
+
+---
 
 ### 📚 HexaRAG
 
-A Retrieval-Augmented Generation system for document processing and intelligent question answering.
+A Retrieval-Augmented Generation system for document processing
+and intelligent question answering.
 
-🔗 [View HexaRAG](https://github.com/mouli-tech2025/Hexa_RAG)
+🔗 [View HexaRAG Repository](https://github.com/mouli-tech2025/Hexa_RAG)
 
 
 ---
