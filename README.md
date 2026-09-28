@@ -19,20 +19,12 @@
 
 ## 🛠️ Languages & Tools
 
-### Programming Languages
-
 <p>
-<img src="https://skillicons.dev/icons?i=c,python,java,js,ts" />
+<img src="https://skillicons.dev/icons?i=c,python,java,js,ts,pandas,numpy" />
 </p>
-
-### Web Development
-
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite" />
 </p>
-
-### Tools
-
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 <img src="https://img.shields.io/badge/Antigravity-IDE-4285F4?style=for-the-badge" />
@@ -68,14 +60,13 @@ and intelligent question answering.
 ## 📚 Currently Learning
 
 - Data Structures & Algorithms
-- TypeScript
 - Artificial Intelligence & Machine Learning
 - Retrieval-Augmented Generation
 - Android Development
 
   ---
 
-## 📊 GitHub Stats
+##🚀 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mouli-tech2025&show_icons=true&theme=tokyonight" />
@@ -87,7 +78,7 @@ and intelligent question answering.
 
 ---
 
-## 🤝 Connect With Me
+##Connect With Me
 
 <p>
 <a href="https://www.linkedin.com/in/mouli-biswas-2ba777390/">
