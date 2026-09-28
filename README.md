@@ -14,3 +14,29 @@
 - 🧠 Exploring RAG
 - 📚 Practicing DSA
 - 📱 Interested in Android Development
+
+---
+
+## 🛠️ Languages & Tools
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,python,java,js,ts" />
+</p>
+
+### Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### AI / ML
+
+**NumPy • AI/ML • RAG**
