@@ -20,7 +20,7 @@
 ## 🛠️ Languages & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,python,java,js,ts,pandas,numpy" />
+<img src="https://skillicons.dev/icons?i=c,python,numpy,pandas,java,js,ts" />
 </p>
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite" />
