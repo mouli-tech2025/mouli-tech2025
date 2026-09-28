@@ -9,6 +9,11 @@
 <table width="100%">
 <tr>
 
+<td width="75%" valign="middle">
+
+<table width="100%">
+<tr>
+
 <td width="70%" valign="top">
 
 ## 🎀 About Me
@@ -25,25 +30,36 @@ Hi! I'm **Mouli Biswas** 👩🏻‍💻
 
 </td>
 
-<td width="30%" valign="middle" align="center">
+<td width="30%" valign="top" align="center">
 
 ## 💌 Let's Connect
 
 <a href="https://www.linkedin.com/in/mouli-biswas-2ba777390/">
-<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br><br>
 
 <a href="mailto:biswasmouli16@gmail.com">
-<img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
 <a href="https://github.com/mouli-tech2025">
-<img src="https://img.shields.io/badge/GitHub-E75480?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-E75480?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</td>
+
+</tr>
+</table>
+
+</td>
+
+<td width="25%" valign="middle" align="center">
+
+<img src="./assets/coding.gif" width="180">
 
 </td>
 
