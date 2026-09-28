@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mouli-tech2025/mouli-tech2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Mouli Biswas
 
-Here are some ideas to get you started:
+### 3rd Year B.Tech IT Student | Web Developer | AI/ML Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## 👨‍💻 About Me
+
+- 🎓 3rd Year B.Tech Information Technology Student
+- 💻 Interested in Web Development
+- 🤖 AI/ML Enthusiast
+- 🧠 Exploring RAG
+- 📚 Practicing DSA
+- 📱 Interested in Android Development
