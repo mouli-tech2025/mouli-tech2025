@@ -22,6 +22,13 @@
 <p>
 <img src="https://skillicons.dev/icons?i=c,python,java,js,ts" />
 </p>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+</a>
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite" />
 </p>
@@ -78,35 +85,23 @@ and intelligent question answering.
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 GitHub Insights:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mouli-tech2025&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouli-tech2025&layout=compact&theme=tokyonight" height="180"/>
-</p>
+### 🪐 Developer Overview:
 
----
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mouli-tech2025&theme=dracula&v=2)](https://github.com/mouli-tech2025)
 
-## 🔥 GitHub Streak
+### 🚀 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mouli-tech2025&theme=tokyonight" />
-</p>
+<table>
+<tr>
+<td align="center">
 
----
-
-## 📈 Contribution Overview
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mouli-tech2025&theme=tokyonight" />
-</p>
-
-
-</details>
-
-
-
+<a href="https://github.com/mouli-tech2025">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mouli-tech2025&theme=github-dark&hide_border=true"/>
 </a>
-</div>
 
-<img src="https://raw.githubusercontent.com/mouli-tech2025/mouli-tech2025/output/snake.svg" width = 1500 alt="Snake animation" />
+</td>
+</tr>
+</table>
+
