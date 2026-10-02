@@ -110,8 +110,6 @@ Hi! I'm **Mouli Biswas** 👩🏻‍💻
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mouli-tech2025&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/mouli-tech2025?color=E75480&style=for-the-badge&label=FOLLOWERS" />
-  <img src="https://img.shields.io/github/stars/mouli-tech2025?color=FFB6C1&style=for-the-badge&label=STARS" />
   <br>
   <img src="https://raw.githubusercontent.com/mouli-tech2025/mouli-tech2025/output/snake.svg" width="100%" alt="GitHub Contribution Snake" />
 </p>
