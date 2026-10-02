@@ -107,24 +107,12 @@ Hi! I'm **Mouli Biswas** 👩🏻‍💻
 </table>
 <h2>✨ GitHub Highlights</h2>
 
-<p align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=mouli-tech2025&color=ff69b4&style=for-the-badge&label=Profile+Views)
 
-<a href="https://github.com/mouli-tech2025">
-  <img src="https://komarev.com/ghpvc/?username=mouli-tech2025&color=FF69B4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-</a>
+![Followers](https://img.shields.io/github/followers/mouli-tech2025?color=E75480&style=for-the-badge&label=Followers)
 
-<a href="https://github.com/mouli-tech2025?tab=followers">
-  <img src="https://img.shields.io/github/followers/mouli-tech2025?color=E75480&style=for-the-badge&label=FOLLOWERS" alt="Followers"/>
-</a>
+![Stars](https://img.shields.io/github/stars/mouli-tech2025?color=FFB6C1&style=for-the-badge&label=Stars)
 
-<a href="https://github.com/mouli-tech2025?tab=repositories">
-  <img src="https://img.shields.io/github/stars/mouli-tech2025?color=FFB6C1&style=for-the-badge&label=STARS" alt="Stars"/>
-</a>
+<br><br>
 
-</p>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mouli-tech2025/mouli-tech2025/main/output/snake.svg" width="100%" alt="Snake animation"/>
-
-</div>
+<img src="https://raw.githubusercontent.com/mouli-tech2025/mouli-tech2025/output/snake.svg" width="1500" alt="GitHub Contribution Snake" />
